@@ -18,37 +18,19 @@ This repository contains a simple Python script that uses OpenCV to capture vide
    pip install opencv-python numpy
 Clone the repository:
 
-
-   ```bash
-Copy code
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-Run the script:
-
-   ```bash
-Copy code
-python optical_flow_draw.py
-
-Instructions
+### Instructions
 Press ESC to exit the program.
 Press e to erase the drawing.
 Press c to change the drawing color.
 Press g to maintain the current color.
 Click the left mouse button to set the starting point for drawing.
-How it Works
+
+### How it Works
 The program captures video from the webcam using OpenCV.
 Optical flow is calculated using the Lucas-Kanade method.
 The user can draw by moving the mouse, and the drawing is superimposed on the video feed.
 Interaction keys are provided for erasing drawings and changing colors.
 Feel free to experiment with the code and create your own interactive drawings!
-
-
-   ```vbnet
-Copy code
-
-Make sure to replace `"yourusername"` and `"your-repo"` with your GitHub username and repository name. Adjust the instructions and descriptions as needed based on the specific details of your code.
-
-
 
 
 

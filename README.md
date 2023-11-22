@@ -18,13 +18,14 @@ This repository contains a simple Python script that uses OpenCV to capture vide
    pip install opencv-python numpy
 Clone the repository:
 
-bash
+
+   ```bash
 Copy code
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 Run the script:
 
-bash
+   ```bash
 Copy code
 python optical_flow_draw.py
 
@@ -41,14 +42,13 @@ The user can draw by moving the mouse, and the drawing is superimposed on the vi
 Interaction keys are provided for erasing drawings and changing colors.
 Feel free to experiment with the code and create your own interactive drawings!
 
-vbnet
+
+   ```vbnet
 Copy code
 
 Make sure to replace `"yourusername"` and `"your-repo"` with your GitHub username and repository name. Adjust the instructions and descriptions as needed based on the specific details of your code.
-vbnet
-Copy code
 
-Make sure to replace `"yourusername"` and `"your-repo"` with your GitHub username and repository name. Adjust the instructions and descriptions as needed based on the specific details of your code.
+
 
 
 
